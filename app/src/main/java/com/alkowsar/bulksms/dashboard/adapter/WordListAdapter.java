@@ -1,4 +1,5 @@
-package com.alkowsar.bulksms.adapter;
+/*
+package com.alkowsar.bulksms.dashboard.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -60,3 +61,4 @@ public class WordListAdapter extends RecyclerView.Adapter<WordListAdapter.WordVi
     }
 }
 
+*/
